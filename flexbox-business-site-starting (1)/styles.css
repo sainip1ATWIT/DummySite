@@ -62,7 +62,7 @@ body {
 /* Mission */
 
 .mission {
-    background-image: url(office.jpeg);
+    background-image: url(./images/office.jpeg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
